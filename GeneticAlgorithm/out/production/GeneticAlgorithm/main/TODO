@@ -1,0 +1,11 @@
+//TODO: list of things that must to be implemented before project submission:
+
+(1) - Change this thing that sets genotypeSize by dimensionality!
+(2) - Put fitness attribute in Phenotype POJO!
+(3) - Create a method to verify convergence before the time (overfitting)!
+(4) - Create a method to verify solution quality before/after verify end of times.
+(5) - Verify if q1 function is correct comparing with Sarajason GA ppt's.
+(6) - See if the variable used it's genotypeSize or populationSize.
+(7) - correct individuals generator responsibilities.
+
+--------------------------------------------------------------------------------------//
